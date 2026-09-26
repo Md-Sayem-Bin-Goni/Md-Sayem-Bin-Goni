@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./github-banner.png" width="100%" alt="Md Sayem Bin Goni - Frontend Developer" />
+</p>
 <h1 align="center">Hi 👋, I'm Md Sayem Bin Goni</h1>
 
 <h3 align="center">
